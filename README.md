@@ -15,9 +15,11 @@
 
 ![演示](https://img-blog.csdnimg.cn/20181230035351621.png?x-oss-proess=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdiZl9qYXZh,size_16,color_FFFFFF,t_70)
 # 使用方法
-1.在安装Xposed模块root手机安装插件或者使用VirtualXposed 安装插件 [VirtualXposed下载](https://github.com/android-hacker/VirtualXposed/releases)
+1.从releases中下载插件 [插件下载地址](https://github.com/852172891/XposedBLE/releases/download/V1.0/XposseBLE.apk)
 
-2.APP和蓝牙设备进行交互过程中，数据包会在logcat(android studio)中显示
+2.在安装Xposed模块root手机安装插件或者使用VirtualXposed 安装插件 [VirtualXposed下载](https://github.com/android-hacker/VirtualXposed/releases)
+
+3.APP和蓝牙设备进行交互过程中，数据包会在logcat(android studio)中显示
 
 # 相关文档
 实现原理可以看我的博文 
